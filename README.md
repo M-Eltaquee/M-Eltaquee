@@ -1,8 +1,16 @@
-## Hi 👋! I'm Mohamed Saleh
+<table>
+<tr>
+<td width="150">
+<img src="https://github.com/M-Eltaquee/M-Eltaquee/blob/main/profile-pic-2.jpg?raw=true" width="150" style="border-radius: 50%;" />
+</td>
+<td>
 
-### 💼 Commercial Analyst | Turning commercial & operational data into decisions that protect margins and drive revenue
+## Mohamed Saleh
+### Commercial Analyst | Turning commercial & operational data into decisions that protect margins and drive revenue
 
----
+</td>
+</tr>
+</table>
 
 ## 🛠 Tech Stack
 
@@ -82,4 +90,4 @@ Coming soon.
 
 ---
 
-*Open to Commercial Analyst / Supply Chain Analyst opportunities in the UAE.*
+*Open to Commercial Analyst / Power BI Developer opportunities in the UAE.*

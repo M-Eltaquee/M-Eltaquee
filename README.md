@@ -41,18 +41,18 @@ Subscriber segmentation, campaign ROI modelling, data validation.
 
 ## 🚀 Projects
 
-<!-- ### [🎯 Supply Chain Performance Dashboard](https://github.com/M-Eltaquee/supply-chain-performance-dashboard)
-Power BI dashboard analyzing fill rate, lead time, and inventory health across a simulated distribution network.
-
-[![Supply Chain Dashboard Demo](https://github.com/M-Eltaquee/supply-chain-performance-dashboard/blob/main/assets/demo.gif?raw=true)](https://github.com/M-Eltaquee/supply-chain-performance-dashboard)
-
-**Tools:** Power BI, DAX, Power Query -->
-
 ### [🎯 Sales & Customer Performance Dashboard](https://github.com/M-Eltaquee/tableau-sales-customer-dashboard)
 Tableau dashboard analyzing year-over-year sales, profit, and customer behavior across a retail network.
 
 [![Sales & Customer Dashboard Demo](https://github.com/M-Eltaquee/tableau-sales-customer-dashboard/blob/main/assets/demo.gif?raw=true)](https://github.com/M-Eltaquee/tableau-sales-customer-dashboard)
 
+<!--
+### [🎯 Supply Chain Performance Dashboard](https://github.com/M-Eltaquee/supply-chain-performance-dashboard)
+Power BI dashboard analyzing fill rate, lead time, and inventory health across a simulated distribution network.
+
+[![Supply Chain Dashboard Demo](https://github.com/M-Eltaquee/supply-chain-performance-dashboard/blob/main/assets/demo.gif?raw=true)](https://github.com/M-Eltaquee/supply-chain-performance-dashboard)
+
+**Tools:** Power BI, DAX, Power Query
 **Tools:** Tableau, Calculated Fields, Parameters
 
 ### [🎯 Commercial Profitability Analysis](#)
@@ -70,6 +70,7 @@ Coming soon.
 ### [🎯 E-Commerce Analytics](#)
 Coming soon.
 **Tools:** Python, Pandas
+-->
 
 ---
 
@@ -77,7 +78,7 @@ Coming soon.
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igs.meltaquee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh2023/)
-[![Location](https://img.shields.io/badge/Ajman%2FDubai%2C_UAE-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/FDubai%2C_UAE-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
 

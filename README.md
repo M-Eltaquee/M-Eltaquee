@@ -36,14 +36,17 @@ Advanced Data Modeling · Advanced DAX · Power Query & M · Advanced Analytics 
 
 ## 💼 Experience
 
-**Commercial Analyst** — Emirates Industries (EMI) – Madares *(Oct 2025–Present)*
-Supplier performance scoring, production timeline forecasting, contract risk tracking.
+**Commercial Analyst** — Emirates Industries Group *(Oct 2025–Present)*
+Supplier and vendor performance evaluation, sales and delivery forecasting, commercial risk tracking.
 
-**Commercial Analyst** — Al Muqarram Group (Soudal) *(Oct 2020–Oct 2025)*
-Export profitability models, landed-cost analysis, breakeven quantity calculations.
+**Commercial Analyst** — Soudal Group *(Oct 2020–Oct 2025, Part-time)*
+Export sales profitability models, market expansion analysis, breakeven quantity calculations.
 
 **Data Analyst** — Etisalat UAE *(Oct 2017–Sep 2020)*
-Subscriber segmentation, campaign ROI modelling, data validation.
+Subscriber segmentation, campaign ROI modelling, conversion improvement from 4% to 9%.
+
+**Commercial Turnaround Consultant** — William Penn (Sheaffer Brand) *(Apr 2022–2024, Part-time Contractor)*
+Brand recovery through product portfolio rationalization, dealer network evaluation, and 3-channel distribution redesign.
 
 ---
 
@@ -61,6 +64,7 @@ Power BI dashboard analyzing fill rate, lead time, and inventory health across a
 [![Supply Chain Dashboard Demo](https://github.com/M-Eltaquee/supply-chain-performance-dashboard/blob/main/assets/demo.gif?raw=true)](https://github.com/M-Eltaquee/supply-chain-performance-dashboard)
 
 **Tools:** Power BI, DAX, Power Query
+
 **Tools:** Tableau, Calculated Fields, Parameters
 
 ### [🎯 Commercial Profitability Analysis](#)
